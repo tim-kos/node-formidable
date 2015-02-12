@@ -9,7 +9,8 @@
     "hashish": "0.0.4",
     "urun": "~0.0.6",
     "utest": "0.0.3",
-    "request": "~2.11.4"
+    "request": "~2.11.4",
+    "async": "0.8.0"
   },
   "directories": {
     "lib": "./lib"
